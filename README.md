@@ -1,2 +1,2 @@
 # Touhou-Duck-Sound-Shot
-The mod is not finshed yet I am still working on it.
+I am sorry this patch have been cancelled due to JSON Error
