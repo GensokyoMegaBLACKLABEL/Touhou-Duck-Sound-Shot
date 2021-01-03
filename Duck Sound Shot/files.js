@@ -1,4 +1,5 @@
 {
+  "th13/ascii/loading.png": 1149891067,
   "th13/ascii/pause.png": 1334982787,
   "th13/e01.msg.jdiff": 3392526018,
   "th13/e02.msg.jdiff": 421132554,
